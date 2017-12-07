@@ -1,0 +1,3 @@
+time ./create 2>> timings.txt 1>> r.txt
+diff GHZ_output.txt GHZ_output_v2.txt
+diff column_test.txt column_test_v2.txt

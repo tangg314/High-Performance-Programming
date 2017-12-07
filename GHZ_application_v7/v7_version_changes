@@ -1,0 +1,11 @@
+_v5
+use more variables for args in equations in SFH.cpp
+float arg1 = 0;
+arg1 = SFR_2Gyr(radius);
+area_part[1]= ((0+arg1)/2)*1.64;
+
+removed for loop
+listed out 
+
+_v7
+version 5 with removed _v2 changes
